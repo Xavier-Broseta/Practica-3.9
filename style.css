@@ -1,0 +1,17 @@
+header{
+    background-color: black;
+}
+
+h1.titulo{
+    color: orange;
+    text-align: center;
+}
+p.enlaces{
+    color: black;
+    text-align: center;
+}
+
+hr{
+border-style: double;
+
+}
