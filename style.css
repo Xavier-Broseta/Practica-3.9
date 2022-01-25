@@ -15,3 +15,8 @@ hr{
 border-style: double;
 
 }
+
+img.logo{
+
+    float: left;
+}
